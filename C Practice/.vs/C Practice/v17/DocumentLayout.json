@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\code\\C Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0D91D2-3552-4C29-B80C-CD0D2FEDC8B8}|C Practice\\C Practice.vcxproj|C:\\Users\\user\\Desktop\\code\\C Practice\\C Practice\\\uB3D9\uC801 \uBA54\uBAA8\uB9AC 2\uCC28\uC6D0 \uBC30\uC5F4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E0D91D2-3552-4C29-B80C-CD0D2FEDC8B8}|C Practice\\C Practice.vcxproj|solutionrelative:C Practice\\\uB3D9\uC801 \uBA54\uBAA8\uB9AC 2\uCC28\uC6D0 \uBC30\uC5F4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0D91D2-3552-4C29-B80C-CD0D2FEDC8B8}|C Practice\\C Practice.vcxproj|C:\\Users\\user\\Desktop\\code\\C Practice\\C Practice\\\uAD6C\uC870\uCCB4 \uB3D9\uC801 \uBA54\uBAA8\uB9AC \uD560\uB2F9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E0D91D2-3552-4C29-B80C-CD0D2FEDC8B8}|C Practice\\C Practice.vcxproj|solutionrelative:C Practice\\\uAD6C\uC870\uCCB4 \uB3D9\uC801 \uBA54\uBAA8\uB9AC \uD560\uB2F9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0D91D2-3552-4C29-B80C-CD0D2FEDC8B8}|C Practice\\C Practice.vcxproj|C:\\Users\\user\\Desktop\\code\\C Practice\\C Practice\\\uB450 \uC810 \uC0AC\uC774\uC758 \uAC70\uB9AC.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E0D91D2-3552-4C29-B80C-CD0D2FEDC8B8}|C Practice\\C Practice.vcxproj|solutionrelative:C Practice\\\uB450 \uC810 \uC0AC\uC774\uC758 \uAC70\uB9AC.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0D91D2-3552-4C29-B80C-CD0D2FEDC8B8}|C Practice\\C Practice.vcxproj|C:\\Users\\user\\Desktop\\code\\C Practice\\C Practice\\\uD559\uC0DD \uC815\uBCF4 \uAD6C\uC870\uCCB4 \uD65C\uC6A9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E0D91D2-3552-4C29-B80C-CD0D2FEDC8B8}|C Practice\\C Practice.vcxproj|solutionrelative:C Practice\\\uD559\uC0DD \uC815\uBCF4 \uAD6C\uC870\uCCB4 \uD65C\uC6A9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0D91D2-3552-4C29-B80C-CD0D2FEDC8B8}|C Practice\\C Practice.vcxproj|C:\\Users\\user\\Desktop\\code\\C Practice\\C Practice\\\uD559\uC0DD \uC815\uBCF4 \uAD6C\uC870\uCCB4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E0D91D2-3552-4C29-B80C-CD0D2FEDC8B8}|C Practice\\C Practice.vcxproj|solutionrelative:C Practice\\\uD559\uC0DD \uC815\uBCF4 \uAD6C\uC870\uCCB4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uB3D9\uC801 \uBA54\uBAA8\uB9AC 2\uCC28\uC6D0 \uBC30\uC5F4.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\code\\C Practice\\C Practice\\\uB3D9\uC801 \uBA54\uBAA8\uB9AC 2\uCC28\uC6D0 \uBC30\uC5F4.c",
+              "RelativeDocumentMoniker": "C Practice\\\uB3D9\uC801 \uBA54\uBAA8\uB9AC 2\uCC28\uC6D0 \uBC30\uC5F4.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\code\\C Practice\\C Practice\\\uB3D9\uC801 \uBA54\uBAA8\uB9AC 2\uCC28\uC6D0 \uBC30\uC5F4.c",
+              "RelativeToolTip": "C Practice\\\uB3D9\uC801 \uBA54\uBAA8\uB9AC 2\uCC28\uC6D0 \uBC30\uC5F4.c",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-10T07:42:54.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uAD6C\uC870\uCCB4 \uB3D9\uC801 \uBA54\uBAA8\uB9AC \uD560\uB2F9.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\code\\C Practice\\C Practice\\\uAD6C\uC870\uCCB4 \uB3D9\uC801 \uBA54\uBAA8\uB9AC \uD560\uB2F9.c",
+              "RelativeDocumentMoniker": "C Practice\\\uAD6C\uC870\uCCB4 \uB3D9\uC801 \uBA54\uBAA8\uB9AC \uD560\uB2F9.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\code\\C Practice\\C Practice\\\uAD6C\uC870\uCCB4 \uB3D9\uC801 \uBA54\uBAA8\uB9AC \uD560\uB2F9.c",
+              "RelativeToolTip": "C Practice\\\uAD6C\uC870\uCCB4 \uB3D9\uC801 \uBA54\uBAA8\uB9AC \uD560\uB2F9.c",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-10T07:42:40.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\uB450 \uC810 \uC0AC\uC774\uC758 \uAC70\uB9AC.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\code\\C Practice\\C Practice\\\uB450 \uC810 \uC0AC\uC774\uC758 \uAC70\uB9AC.c",
+              "RelativeDocumentMoniker": "C Practice\\\uB450 \uC810 \uC0AC\uC774\uC758 \uAC70\uB9AC.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\code\\C Practice\\C Practice\\\uB450 \uC810 \uC0AC\uC774\uC758 \uAC70\uB9AC.c",
+              "RelativeToolTip": "C Practice\\\uB450 \uC810 \uC0AC\uC774\uC758 \uAC70\uB9AC.c",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-10T07:38:01.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\uD559\uC0DD \uC815\uBCF4 \uAD6C\uC870\uCCB4 \uD65C\uC6A9.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\code\\C Practice\\C Practice\\\uD559\uC0DD \uC815\uBCF4 \uAD6C\uC870\uCCB4 \uD65C\uC6A9.c",
+              "RelativeDocumentMoniker": "C Practice\\\uD559\uC0DD \uC815\uBCF4 \uAD6C\uC870\uCCB4 \uD65C\uC6A9.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\code\\C Practice\\C Practice\\\uD559\uC0DD \uC815\uBCF4 \uAD6C\uC870\uCCB4 \uD65C\uC6A9.c",
+              "RelativeToolTip": "C Practice\\\uD559\uC0DD \uC815\uBCF4 \uAD6C\uC870\uCCB4 \uD65C\uC6A9.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-10T07:36:53.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uD559\uC0DD \uC815\uBCF4 \uAD6C\uC870\uCCB4.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\code\\C Practice\\C Practice\\\uD559\uC0DD \uC815\uBCF4 \uAD6C\uC870\uCCB4.c",
+              "RelativeDocumentMoniker": "C Practice\\\uD559\uC0DD \uC815\uBCF4 \uAD6C\uC870\uCCB4.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\code\\C Practice\\C Practice\\\uD559\uC0DD \uC815\uBCF4 \uAD6C\uC870\uCCB4.c",
+              "RelativeToolTip": "C Practice\\\uD559\uC0DD \uC815\uBCF4 \uAD6C\uC870\uCCB4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-10T07:36:24.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
